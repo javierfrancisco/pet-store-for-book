@@ -6,3 +6,7 @@ This project was created using: https://vuejs.org/v2/guide/installation.html ­ 
 $ npm install -g vue-cli
 
 $vue init webpack petstore
+
+then 
+
+$ npm run dev
